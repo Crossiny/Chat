@@ -14,3 +14,6 @@ E:\Schule\Chat\Chat\obj\Debug\Chat.pdb
 E:\Schule\Chat\Chat\obj\Debug\MediaMessage.g.cs
 E:\Schule\Chat\Chat\obj\Debug\MediaMessage.baml
 E:\Schule\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\Users\Chris\Documents\Schule\Programmieren\SchulProjekt\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Users\Chris\Documents\Schule\Programmieren\SchulProjekt\Chat\Chat\obj\Debug\Chat.exe
+D:\Users\Chris\Documents\Schule\Programmieren\SchulProjekt\Chat\Chat\obj\Debug\Chat.pdb
